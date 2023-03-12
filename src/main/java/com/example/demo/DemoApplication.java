@@ -16,6 +16,6 @@ public class DemoApplication {
 	@RequestMapping("/")
 	String sayHello() {
 		return "Hello bhailog kaise ho";
-		return "ye apna web app hai"
+		return "ye apna web app hai";
 	}
 }
